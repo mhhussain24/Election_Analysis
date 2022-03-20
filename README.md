@@ -39,7 +39,7 @@ The analysis of the election shows that:
   - Arapahoe County received 6.7% of the votes and 24,801 votes
 - The county with the most votes was
   - Denver which received 82.8% of the votes and 306,055 votes  
-<<<<<<< HEAD
+
 
 - Prior to creating my with statements and for loops, I initialized a total vote counter. I then created a list that would hold the names of all the candidates, as well as one that would hold the neames of all the counties. I also created a dictionary that would include the candidates as key and votes cast for each candidiate as value. For county, I created a similar dictionary that would include counties as keys and votes cast for each county as values. See the screenshot below for how I set this up.
 ! [Setting up lists and dictionaries](Resources/County_and_Candidate_Lists_and_Dictionaries.png)
@@ -51,3 +51,6 @@ The analysis of the election shows that:
 ! [Output](Resources/Output.png)
   
   ## Election-Audit Summary
+  The script used here can be used for any election. By modifying certain parts of this code, it can recreate the analysis any given subject. For example, if someone were attempting to analyze data for a presidential election, they may want to analyze voter turnout by state instead of county. They can do this by subbing state and state information where county exists currently.
+
+  This script can also be used by someone only looking to pull info on one header instead of two. If instead of county information, someone was only looking for candidate information, they can simply scratch out the code referring to counties and pull only the data they wanted about candidates.
