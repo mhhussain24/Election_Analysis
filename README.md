@@ -39,7 +39,9 @@ The analysis of the election shows that:
   - Arapahoe County received 6.7% of the votes and 24,801 votes
 - The county with the most votes was
   - Denver which received 82.8% of the votes and 306,055 votes  
-- - Prior to creating my with statements and for loops, I initialized a total vote counter. I then created a list that would hold the names of all the candidates, as well as one that would hold the neames of all the counties. I also created a dictionary that would include the candidates as key and votes cast for each candidiate as value. For county, I created a similar dictionary that would include counties as keys and votes cast for each county as values. See the screenshot below for how I set this up.
+<<<<<<< HEAD
+
+- Prior to creating my with statements and for loops, I initialized a total vote counter. I then created a list that would hold the names of all the candidates, as well as one that would hold the neames of all the counties. I also created a dictionary that would include the candidates as key and votes cast for each candidiate as value. For county, I created a similar dictionary that would include counties as keys and votes cast for each county as values. See the screenshot below for how I set this up.
 ! [Setting up lists and dictionaries](Resources/County_and_Candidate_Lists_and_Dictionaries.png)
 
 - In order to find the candidate name and county name from each row, I had create a for loop, and loop through different columns. I created two lists called candidate options and ccounty options, which would icrease by a new candididate or new county each time the for loop found a candididate or county now already part of the lists. See screenshot below for how this was executed.
@@ -48,6 +50,8 @@ The analysis of the election shows that:
 - As you can see in my output below, I used the lists and dictionaries mentioned above =and the for loop= to be able to get the names of each county and candidiate as well as the amount of votes each recieved. 
 ! [Output](Resources/Output.png)
 
+=======
+>>>>>>> 7c7a5c64d660bf4a06b3407fff1bfe90f587d72f
   
 ## Election-Audit Summary
   
