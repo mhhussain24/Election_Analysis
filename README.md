@@ -49,9 +49,5 @@ The analysis of the election shows that:
 
 - As you can see in my output below, I used the lists and dictionaries mentioned above =and the for loop= to be able to get the names of each county and candidiate as well as the amount of votes each recieved. 
 ! [Output](Resources/Output.png)
-
-=======
->>>>>>> 7c7a5c64d660bf4a06b3407fff1bfe90f587d72f
   
-## Election-Audit Summary
-  
+  ## Election-Audit Summary
